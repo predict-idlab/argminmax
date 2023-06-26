@@ -1,6 +1,9 @@
 # ArgMinMax
 
 <div align="center">
+  <h1>Fork of https://github.com/jvdd/argminmax</h1>
+  <h2>Up-to-date code can be found over there ⬆️</h2>
+  
   <a href="https://crates.io/crates/argminmax">
     <img src="https://img.shields.io/crates/v/argminmax.svg"/>
   </a>
